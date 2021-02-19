@@ -24,3 +24,6 @@ facebook : facebook.com/ctl.gaul
 <br>
 # Thanks to
 # Blackhole Scurity
+
+Apapun yang terjadi tidak ada pertanggung 
+jawabkan oleh admin
