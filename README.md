@@ -3,7 +3,7 @@
 <br>
 tools to make viruses simple
 <br>
-$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
+$ git clone https://github.com/X-Lite1/Evil-create-framework
 <br>
 $ cd Evil-create-framework
 <br>
